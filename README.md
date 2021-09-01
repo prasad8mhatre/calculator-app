@@ -13,7 +13,11 @@ How to run:
 * Also you can run/build testcase:  mvn clean install
 
 Sample Input/Output:
+
 Calculator Application!
+
 Enter you expression:
+
 3+10-1*6/7
+
 Result: 12.142857142857142
