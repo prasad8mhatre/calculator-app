@@ -1,18 +1,18 @@
-Simple calulator!
+## Simple calulator!
 
-Supported Features:
+## Supported Features:
 * Multi-operator expression evaluation
 * Decimal numbers operation
 * Current operators (+,-,*/); open for extension
 * Invalid expression handling
 
-How to run:
+## How to run:
 * Open the program in your IDE, run Application.java file
 * Enter the expression that you want to evaluate
 * Get the output
 * Also you can run/build testcase:  mvn clean install
 
-Sample Input/Output:
+## Sample Input/Output:
 
 Calculator Application!
 
